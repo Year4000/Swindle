@@ -1,0 +1,8 @@
+rootProject.name = 'Swindle'
+
+include 'utilities:core'
+include 'utilities:core:locale'
+include 'utilities:core:ducktape'
+include 'utilities:core:scheduler'
+include 'utilities:core:redis'
+include 'utilities:sponge'
